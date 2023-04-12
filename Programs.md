@@ -4,3 +4,5 @@
 - R
 - C++
 - Java
+- C
+- Cython
